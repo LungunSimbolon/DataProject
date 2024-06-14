@@ -1,1 +1,0 @@
-["AcceptedCmp5", "AcceptedCmp1", "AcceptedCmp3", "AcceptedCmp2", "Recency", "Kidhome", "NumCatalogPurchases"]
